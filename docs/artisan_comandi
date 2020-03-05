@@ -1,0 +1,9 @@
+Creare un crontroller:
+php artisan make:controller TaskController
+
+Per installare l'auth in laravel 6
+composer require laravel/ui
+php artisan ui vue --auth
+
+Per installare l'auth in laravel 5.8
+php artisan make:auth
