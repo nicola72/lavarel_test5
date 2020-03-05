@@ -7,3 +7,6 @@ php artisan ui vue --auth
 
 Per installare l'auth in laravel 5.8
 php artisan make:auth
+
+per liberare la cache delle configurazioni
+php artisan config:clear
